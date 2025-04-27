@@ -13,8 +13,9 @@ I'm a fourth-year undergraduate student at the University of Chicago studying Co
 ## HIGHLIGHTS
 
 ### VR DIVER INTERFACE
-![VR Diver Interface](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/vr diver/image 19.png)![better numpad](<images/vr diver/better numpad.png>)
-![low bat](<images/vr diver/another low battery.png>)![incoming call](<images/vr diver/incoming call answer.png>)
+![VR Diver Interface](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/vr diver/image 19.png) ![better numpad](<images/vr diver/better numpad.png>)
+![low bat](<images/vr diver/another low battery.png>) ![incoming call](<images/vr diver/incoming call answer.png>)
+
 FLOATING HUD FOR A VIRTUAL REALITY DIVING GAME. COMPACT DESIGN MINIMIZES NOISE AND PRESERVES THE NATURAL BEAUTY OF THE GAME.
 
 ---
@@ -37,5 +38,5 @@ VIDEO OVERLAY PLUG-IN THAT PROVIDES LIVE BREAKDOWNS OF VIDEO REPAIR GUIDES. EASE
 ---
 
 ### OTHER PROJECTS
-![Graphics](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/frisbee graphics (mainly bfg)/REGIONALS 1.png)
-![team store](<images/frisbee graphics (mainly bfg)/team store 1.png>) ![preseason mini graphic](<images/frisbee graphics (mainly bfg)/Preseason Mini (1) 1.png>)
+![Graphics](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/frisbee graphics (mainly bfg)/REGIONALS 1.png) ![preseason mini graphic](<images/frisbee graphics (mainly bfg)/Preseason Mini (1) 1.png>)
+![team store](<images/frisbee graphics (mainly bfg)/team store 1.png>)
