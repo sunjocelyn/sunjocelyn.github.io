@@ -2,7 +2,7 @@
 
 ---
 
-![headshot img](images/jocelyn-sun.jpg)
+![headshot img](images/jocelyns.jpg)
 ## Hello! I'm Jocelyn.
 
 I'm a fourth-year undergraduate student at the University of Chicago studying Computer Science (spec. HCI) and Media Arts and Design. I've done a variety of work across UI/UX and visual arts, but my primary interests lay within the interactions between people and their devices, focusing on product design.
