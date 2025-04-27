@@ -1,5 +1,3 @@
-# JOCELYN SUN
-
 [HOME](https://github.com/sunjocelyn) | [TECHNOLOGY](https://github.com/sunjocelyn?tab=repositories) | [GRAPHIC DESIGN](https://github.com/sunjocelyn?tab=repositories) | [ART](https://github.com/sunjocelyn?tab=repositories) | [APPAREL](https://github.com/sunjocelyn?tab=repositories) | [CONTACT](mailto:jwsun@uchicago.edu)
 
 ---
@@ -22,7 +20,8 @@ FLOATING HUD FOR A VIRTUAL REALITY DIVING GAME. COMPACT DESIGN MINIMIZES NOISE A
 ---
 
 ### WATCHING
-![Watching Project](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/watching/Screenshot 2025-04-23 144810.png)
+![Watching Project](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/watching/Screenshot 2025-04-23 144810.png) ![Watching Image 2](<images/watching/Screenshot 2025-04-23 144840.png>)
+![WI3](<images/watching/Screenshot 2025-04-23 144918.png>)![WI4](<images/watching/Screenshot 2025-04-23 144937.png>)
 
 SUN, SHARIFF, CHEUNG
 
@@ -31,11 +30,12 @@ INTERACTIVE MULTIMEDIA INSTALLATION RUN ON TOUCHDESIGNER
 ---
 
 ### REPAIR LEARNING OVERLAY
-![Repair Learning Overlay]
+![Repair Learning Overlay](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/repair plugin/image 20.png)
 
 VIDEO OVERLAY PLUG-IN THAT PROVIDES LIVE BREAKDOWNS OF VIDEO REPAIR GUIDES. EASES THE AT-HOME REPAIR EXPERIENCE AND SUPPORTS LONG-TERM LEARNING.
 
 ---
 
 ### OTHER PROJECTS
-![Project Image]
+![Graphics](https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/frisbee graphics (mainly bfg)/REGIONALS 1.png)
+(https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/frisbee graphics (mainly bfg)/team store 1.png)(https://raw.githubusercontent.com/sunjocelyn/sunjocelyn.github.io/main/images/frisbee graphics (mainly bfg)/Preseason Mini (1) 1.png)
