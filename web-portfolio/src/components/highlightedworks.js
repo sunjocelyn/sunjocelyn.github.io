@@ -81,7 +81,7 @@ const ProjectSingleImg = ({image, title, description, link}) => {
 };
 
 /* Component for two images */
-function ProjectDualImg({ images, title, description, link }) {
+const ProjectDualImg = ({ images, title, description, link }) => {
   const handleClick = () => {
     console.log(`Navigate to: ${link}`);
   };

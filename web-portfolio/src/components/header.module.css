@@ -1,8 +1,19 @@
+.stickyHeader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+}
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0.2rem 1rem;
+    background-color: rgba(255, 255, 255, 0.342);
+    backdrop-filter: blur(10px);
 }
 
 .logo {
@@ -19,6 +30,23 @@
     padding: 0;
 }
 
+.navButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    padding: 0.87rem 1rem;
+    text-decoration: none;
+    display: block;
+}
+
+.navButton:hover {
+    background-color: #f0f0f0;
+    color: #FFD478;
+}
+
 /* Style links in topnav */
 .nav li a {
   color: #000000;
@@ -30,4 +58,115 @@
 .nav li a:hover {
   background-color: #ffffff;
   color: #FFD478;
+}
+
+/* Transition for the About tab*/
+.dropdown {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.4s ease;
+}
+
+.dropdown.open {
+  max-height: 500px;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0,0,0,0.5);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: 1000;
+}
+.backdrop.show {
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* Popup wrapper */
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -40%); /* start slightly above */
+  opacity: 0;
+  transition: all 0.4s ease;
+  z-index: 1001;
+  max-width: 620px;
+  width: 90%;
+}
+.popup.show {
+  transform: translate(-50%, -50%); /* drop down into place */
+  opacity: 1;
+}
+
+/* Popup content */
+.popupContent {
+  position: relative;
+  background-color: white;
+  border: 3px solid #000;
+  border-radius: 8px;
+  box-shadow: 0 0 0 4px #FFD478;
+  padding: 1rem;
+}
+
+/* Close button */
+.closeBtn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* About styles */
+.aboutContent {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 0.9rem;
+  font-family: 'koulen';
+}
+.aboutFlex {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.aboutImg {
+  width: 12rem;
+  height: 16rem;
+  object-fit: cover;
+  margin: 1rem;
+}
+.aboutText {
+  font-size: 0.75rem;
+  line-height: 1.85;
+  letter-spacing: 0.116em;
+}
+.aboutText p {
+  margin-bottom: 1rem;
+}
+.aboutName {
+  font-size: 1.8rem;
+  margin-top: 1.9rem;
+  margin-bottom: 0.9rem;
+  line-height: 0.5;
+  letter-spacing: 0.126em;
+}
+.aboutText p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .aboutFlexent {
+   flex-direction: column; /* stack vertically on small screens */
+   align-items: flex-start; /* optional: align text nicely when stacked */
+  }
 }

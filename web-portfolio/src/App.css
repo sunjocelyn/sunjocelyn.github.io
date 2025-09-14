@@ -26,10 +26,33 @@
     transform: rotate(360deg);
   }
 }
+.pageContent {
+  padding-top: 45px;
+}
+
+.a {
+  font-family: 'fira sans condensed';
+  text-decoration: none;
+}
+.a:link {
+  color: black;
+}
+.a:link,
+.a:visited {
+  color: black;
+}
+.a:hover{
+  color: #FFD478;
+}
 
 /*Koulen Formatting*/
 @font-face {
   font-family: 'koulen';
   letter-spacing: 0.09em;
   src: url('../public/GFonts/Koulen/Koulen-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'fira sans condensed';
+  src: url('../public/GFonts/Fira_Sans_Condensed/FiraSansCondensed-Regular.ttf') format('truetype');
 }

@@ -1,6 +1,6 @@
 /* Container */
 .highlightedWorks {
-  padding: 1rem;
+  padding: 0.8rem;
   max-width: 72rem;
   margin: 0 auto;
   color: #000;
@@ -8,9 +8,9 @@
 
 /* Section Title */
 .pageTitle {
-  font-size: 1.25rem;
+  font-size: 0.8rem;
   font-family: 'koulen';
-  letter-spacing: 0.09em;
+  letter-spacing: 0.116em;
   margin-bottom: 2rem;
   color: #777777;
 }
@@ -19,15 +19,15 @@
 .projectTitle {
   font-size: 1rem;
   font-family: 'koulen';
-  letter-spacing: 0.09em;
+  letter-spacing: 0.116em;
   margin-bottom: 0.5rem;
 }
 
 .projectDescription {
-  font-size: 0.9rem;
-  line-height: 1.6;
+  font-size: 0.8rem;
+  line-height: 1.9;
   font-family: 'koulen';
-  letter-spacing: 0.09em;
+  letter-spacing: 0.116em;
   color: #111;
 }
 
